@@ -6,6 +6,7 @@ presenting::::::::: anti stalk mobule by beng
 
 # tf?
 hides ur location in friends list and guild tab i think lol haven't tested
+
 (well, makes u appear offline but ur bubble will still be green)
 
 ## commands
